@@ -1,0 +1,6 @@
+[submodule "modules/puppet-vim-module"]
+	path = modules/puppet-vim-module
+	url = git@github.com:antik486/puppet-vim-module.git
+[submodule "modules/dotfiles"]
+	path = modules/dotfiles
+	url = git@github.com:antik486/dotfiles.git
